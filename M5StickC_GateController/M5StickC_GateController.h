@@ -1,0 +1,8 @@
+ // Ambient
+unsigned int channelId = 1;
+const char* writeKey = "?????"; // ライトキー
+const char* readKey = "?????"; // リードキー
+
+// Wi-Fi
+const char* ssid = "?????";
+const char* password = "?????";
