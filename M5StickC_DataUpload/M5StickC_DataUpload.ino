@@ -45,8 +45,8 @@ void loop() {
     if(ambient.read(buf, 180))
     {
       // 受信ログ
-      Serial.print("ambient read scusess \n");
-      Serial.printf("%s\n",buf);
+      Serial.print("ambient read scusess ");
+      Serial.printf("%s",buf);
 
       // json解析
       const size_t capacity = 500;
