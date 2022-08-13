@@ -1,8 +1,8 @@
  // Ambient
-unsigned int channelId = 1;
-const char* writeKey = "?????"; // ライトキー
-const char* readKey = "?????"; // リードキー
+unsigned int channelId = 47060;
+const char* writeKey = "63c07db1d6b84d45"; // ライトキー
+const char* readKey = "daae25fc86d6dd72"; // リードキー
 
 // Wi-Fi
-const char* ssid = "?????";
-const char* password = "?????";
+const char* ssid = "MoominValley2020";
+const char* password = "Olavi8Kiti";
